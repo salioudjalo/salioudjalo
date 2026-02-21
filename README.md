@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Saliou Djalo</h1>
 
 <p align="center">
-Cloud & DevOps Engineer focused on production-grade AWS infrastructure
+Cloud & DevOps Engineer building production-grade AWS and Kubernetes platforms
 </p>
 
 <p align="center">
@@ -30,8 +30,8 @@ I approach infrastructure with the mindset that:
 
 **Cloud:** AWS (EC2, VPC, IAM, S3, ECS, Route53)  
 **Infrastructure as Code:** Terraform (modular design, remote state, workspaces)  
-**Containers:** Docker  
-**Orchestration:** Kubernetes  
+**Containers:** Docker
+**Orchestration:** Kubernetes (EKS) 
 **CI/CD:** GitHub Actions  
 **OS & Scripting:** Linux, Bash  
 
@@ -69,18 +69,21 @@ End-to-end container deployment workflow.
 
 ---
 
-### ☸ Kubernetes Production Setup
+### ☸ EKS Production Platform (Terraform + CI/CD)
 
-Container orchestration with focus on reliability.
+Production-style Kubernetes environment running on AWS EKS.
 
 **Includes:**
-- Deployment & Services configuration
-- Ingress setup
-- Rolling updates strategy
-- Monitoring stack (Prometheus + Grafana)
-- Helm-based structure
+- Terraform-managed VPC and EKS cluster
+- Dockerised FastAPI application
+- ECR image registry integration
+- ALB Ingress (AWS Load Balancer Controller)
+- Horizontal Pod Autoscaler (HPA)
+- Liveness & Readiness probes
+- Resource requests & limits
+- GitHub Actions CI/CD pipeline (build → push → deploy)
 
-> Goal: Production-minded Kubernetes environment with observability.
+> Goal: Demonstrate real-world Kubernetes operations on AWS with Infrastructure as Code and automated deployments.
 
 ---
 
