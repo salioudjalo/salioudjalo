@@ -28,12 +28,11 @@ I approach infrastructure with the mindset that:
 
 ## 🛠 Core Stack
 
-**Cloud:** AWS (EC2, VPC, IAM, S3, ECS, Route53)  
-**Infrastructure as Code:** Terraform (modular design, remote state, workspaces)  
-**Containers:** Docker
-**Orchestration:** Kubernetes (EKS) 
-**CI/CD:** GitHub Actions  
-**OS & Scripting:** Linux, Bash  
+- Cloud: AWS (EC2, VPC, IAM, S3, ECS, Route 53)
+- Infrastructure as Code: Terraform (modules, remote state, workspaces)
+- Containers & Orchestration: Docker, Kubernetes (EKS)
+- CI/CD: GitHub Actions
+- OS & Scripting: Linux, Bash
 
 ---
 
