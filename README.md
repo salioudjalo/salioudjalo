@@ -38,7 +38,7 @@ I approach infrastructure with the mindset that:
 
 ## 🔥 Featured Projects
 
-### 🏗 Terraform AWS Foundations
+### 🏗 [Terraform AWS Foundations](https://github.com/salioudjalo/terraform-aws-foundations)
 
 Production-style AWS infrastructure built from scratch using Terraform.
 
@@ -53,7 +53,7 @@ Production-style AWS infrastructure built from scratch using Terraform.
 
 ---
 
-### 🐳 Docker → ECS Deployment Pipeline
+### 🐳 [Docker → ECS Deployment Pipeline](https://github.com/salioudjalo/docker-to-ecs-real)
 
 End-to-end container deployment workflow.
 
@@ -68,7 +68,7 @@ End-to-end container deployment workflow.
 
 ---
 
-### ☸ EKS Production Platform (Terraform + CI/CD)
+### ☸ [EKS Production Platform](https://github.com/salioudjalo/eks-mini-platform)
 
 Production-style Kubernetes environment running on AWS EKS.
 
