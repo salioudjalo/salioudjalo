@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Saliou Djalo</h1>
 
 <p align="center">
-Cloud & DevOps Engineer building production-grade AWS and Kubernetes platforms
+Cloud & DevOps Engineer building production-grade **AWS** and Kubernetes platforms
 </p>
 
 <p align="center">
