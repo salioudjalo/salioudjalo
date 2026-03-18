@@ -32,6 +32,7 @@ I approach infrastructure with the mindset that:
 - Infrastructure as Code: Terraform (modules, remote state, workspaces)
 - Containers & Orchestration: Docker, Kubernetes (EKS)
 - CI/CD: GitHub Actions
+- Monitoring & Observability: Prometheus, Grafana, Alertmanager
 - OS & Scripting: Linux, Bash
 
 ---
