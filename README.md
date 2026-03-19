@@ -1,4 +1,4 @@
-# 👋 Saliou Djalo — Cloud & DevOps Engineer
+# 👋 Saliou Djalo — Senior DevOps Engineer
 
 > *If it can't be versioned and automated, it shouldn't exist.*
 
