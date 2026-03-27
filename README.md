@@ -21,9 +21,11 @@ reliability, automation, and operational excellence.
 |---|---|
 | **Cloud** | AWS (EC2, VPC, IAM, S3, EKS, ECS/Fargate, RDS, Lambda, CloudWatch) |
 | **Infrastructure as Code** | Terraform (modules, remote state, workspaces) · Ansible |
-| **Containers & Orchestration** | Docker · Kubernetes (EKS) · Helm |
+| **Containers & Orchestration** | Docker · Kubernetes · Helm |
 | **CI/CD** | GitHub Actions · GitLab CI/CD |
+| **GitOps / CD** | ArgoCD · Kustomize |
 | **Observability** | Prometheus · Grafana · Alertmanager · Datadog · CloudWatch |
+| **Security** | IAM (least privilege) · AWS Secrets Manager · Vault |
 | **Scripting** | Python · Bash |
 | **OS** | Linux (Ubuntu · Amazon Linux) |
 
