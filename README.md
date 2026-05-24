@@ -25,7 +25,7 @@ reliability, automation, and operational excellence.
 | **CI/CD** | GitHub Actions · GitLab CI/CD · Jenkins|
 | **GitOps / CD** | ArgoCD · Kustomize |
 | **Observability** | Prometheus · Grafana · Alertmanager · Datadog · Sentry · Loki |
-| **Security** | IAM (least privilege) · AWS Secrets Manager · Vault |
+| **Security** | IAM (least privilege) · IRSA · AWS Secrets Manager · Vault · Kyverno |
 | **Agentic Infrastructure / AI** | Agentic Workflows · MCP Servers · Claude Code |
 | **Scripting** | Python · Bash |
 | **OS** | Linux (Ubuntu · Amazon Linux) |
